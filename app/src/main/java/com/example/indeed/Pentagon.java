@@ -1,4 +1,4 @@
 package com.example.indeed;
 
-public class Pentagon {
+public class Pentagon extends Shape{
 }
